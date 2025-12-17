@@ -1,4 +1,4 @@
-# Temple University Crime and Budget Analysis
+# Temple University Incident and Budget Analysis
 ## Applied Statistics 3503-2022
 
 This repo contains the code that supports the following research:
